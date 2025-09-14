@@ -1,0 +1,23 @@
+REQUISITOS 
+
+para o código em python:
+
+pandas version: 2.2.2
+numpy version: 2.0.2
+scikit-learn version: 1.6.1
+xgboost version: 3.0.4
+
+para o código em R:
+
+> packageVersion("tidyverse")
+[1] ‘2.0.0’
+> packageVersion("ggplot2")
+[1] ‘4.0.0’
+> packageVersion("wordcloud")
+[1] ‘2.6’
+> packageVersion("tm")
+[1] ‘0.7.16’
+> packageVersion("xgboost")
+[1] ‘1.7.11.1’
+> packageVersion("knitr")
+[1] ‘1.50’
