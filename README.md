@@ -50,6 +50,9 @@ with open('modelo_regresão_indicium.pkl', 'rb') as arquivo_modelo:
 
 Agora você pode usar o modelo.
 
+
+RODANDO O MODELO EM R
+
 Para rodar o projeto em R basta baixar o arquivo "desafio_indicium.R" e abri-lo em um ambiente de desenvolvimento, recomendo a utilização do Rstudio, porém o código também funciona em jupyter notebook.
 
 No RStudio:
